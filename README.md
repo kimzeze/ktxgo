@@ -1,3 +1,8 @@
+
+### 2025.01.14 /kimdohyeon
+- 모든 역 예매가능하도록 역 설정 오픈, 평창역 추가
+
+
 # SRTgo: K-Train (KTX, SRT) Reservation Assistant
 [![Upload Python Package](https://github.com/lapis42/srtgo/actions/workflows/python-publish.yml/badge.svg)](https://github.com/lapis42/srtgo/actions/workflows/python-publish.yml)
 [![Downloads](https://static.pepy.tech/badge/srtgo)](https://pepy.tech/project/srtgo)
